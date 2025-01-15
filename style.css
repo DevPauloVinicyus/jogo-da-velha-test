@@ -116,15 +116,16 @@ body {
 }
 
 xletter {
-    text-shadow: 0px 4px #D20000;
-    color: #FF1313;
-    filter: drop-shadow(0 0 8px #B00000);
-}
-
-oletter {
     text-shadow: 0px 4px #0D0F8E;
     color: #0038D1;
     filter: drop-shadow(0 0 8px #0D0F8E);
+}
+
+oletter {
+    text-shadow:0px 4px #D20000; 
+    color: #FF1313;
+    filter: drop-shadow(0 0 8px #B00000);
+    
 }
 
 a {
